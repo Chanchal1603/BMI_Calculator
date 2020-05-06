@@ -14,7 +14,7 @@ BMI is a measurement of a person's leanness or corpulence based on their height 
 - Obese Class II	35 - 40
 - Obese Class III	> 40
 
-### BMI table for children and teens, age 2-20
+### BMI table for children and teens( age 2-20)
 - Category	Percentile Range
 - Underweight	<5%
 - Healthy weight	5% - 85%
@@ -39,12 +39,11 @@ Generally, an increased risk of mortality compared to those with a healthy BMI
 As can be seen from the list above, there are numerous negative, in some cases fatal, outcomes that may result from being overweight. Generally, a person should try to maintain a BMI below 25 kg/m2, but ideally should consult their doctor to determine whether or not they need to make any changes to their lifestyle in order to be healthier.
 
 ### Risks associated with being underweight
-
--Malnutrition, vitamin deficiencies, anemia (lowered ability to carry blood vessels)
--Osteoporosis, a disease that causes bone weakness, increasing the risk of breaking a bone
--A decrease in immune function
--Growth and development issues, particularly in children and teenagers
--Possible reproductive issues for women due to hormonal imbalances that can disrupt the menstrual cycle. Underweight women also have a higher chance of miscarriage in the first trimester
--Potential complications as a result of surgery
--Generally, an increased risk of mortality compared to those with a healthy BMI
+- Malnutrition, vitamin deficiencies, anemia (lowered ability to carry blood vessels)
+- Osteoporosis, a disease that causes bone weakness, increasing the risk of breaking a bone
+- A decrease in immune function
+- Growth and development issues, particularly in children and teenagers
+- Possible reproductive issues for women due to hormonal imbalances that can disrupt the menstrual cycle. Underweight women also have a   higher chance of miscarriage in the first trimester
+- Potential complications as a result of surgery
+- Generally, an increased risk of mortality compared to those with a healthy BMI
 In some cases, being underweight can be a sign of some underlying condition or disease such as anorexia nervosa, which has its own risks. Consult your doctor if you think you or someone you know is underweight, particularly if the reason for being underweight does not seem obvious.
