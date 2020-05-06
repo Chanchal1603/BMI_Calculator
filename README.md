@@ -16,9 +16,8 @@ Obese Class I	30 - 35
 Obese Class II	35 - 40
 Obese Class III	> 40
 
-# BMI table for children and teens, age 2-20
-The Centers for Disease Control and Prevention (CDC) recommends BMI categorization for children and teens between age 2 and 20.
-###
+### BMI table for children and teens, age 2-20
+
 Category	Percentile Range
 Underweight	<5%
 Healthy weight	5% - 85%
@@ -27,11 +26,8 @@ Overweight	>95%
 BMI chart for children and teens, age 2-20
 The Centers for Disease Control and Prevention (CDC) BMI-for-age percentiles growth charts.
 
-Chart for boys
-Chart for girls
-# Risks associated with being overweight
-Being overweight increases the risk of a number of serious diseases and health conditions. Below is a list of said risks, according to the Centers for Disease Control and Prevention (CDC):
-###
+### Risks associated with being overweight
+
 -High blood pressure
 -Higher levels of LDL cholesterol, which is widely considered "bad cholesterol," lower levels of HDL cholesterol, considered to be good cholesterol in moderation, and high levels of triglycerides
 -Type II diabetes
@@ -47,9 +43,8 @@ Being overweight increases the risk of a number of serious diseases and health c
 Generally, an increased risk of mortality compared to those with a healthy BMI
 As can be seen from the list above, there are numerous negative, in some cases fatal, outcomes that may result from being overweight. Generally, a person should try to maintain a BMI below 25 kg/m2, but ideally should consult their doctor to determine whether or not they need to make any changes to their lifestyle in order to be healthier.
 
-# Risks associated with being underweight
-Being underweight has its own associated risks, listed below:
-###
+### Risks associated with being underweight
+
 -Malnutrition, vitamin deficiencies, anemia (lowered ability to carry blood vessels)
 -Osteoporosis, a disease that causes bone weakness, increasing the risk of breaking a bone
 -A decrease in immune function
